@@ -75,7 +75,7 @@ The project analyzes film categories to understand rental patterns and category 
 
 ---
 
-## Key DAX Measures
+##  Key DAX Measures
 
 Some of the DAX measures created for this project include:
 
@@ -108,6 +108,14 @@ Other measures include:
 
 ```text
 DVD-Rental-PowerBI-Analytics/
+│
+├── Dataset/
+│   └── Project dataset files
+│
+├── SQL/
+│   ├── Database backup
+│   └── SQL analysis queries
+│
 ├── NoteBook/
 │   └── DVD Rental Analytics Dashboard.pbix
 │
@@ -118,9 +126,10 @@ DVD-Rental-PowerBI-Analytics/
 │   └── Data Model
 │
 └── README.md
------
-----
-----
+```
+
+---
+
 ---
 
 ##  Key Insights
