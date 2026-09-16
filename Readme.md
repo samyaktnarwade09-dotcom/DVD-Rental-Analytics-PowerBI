@@ -1,6 +1,6 @@
-# 🎬 DVD Rental Analytics | Power BI Project
+#  DVD Rental Analytics | Power BI Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing a DVD rental business using SQL and Microsoft Power BI. The objective was to transform raw rental data into an interactive dashboard that helps analyze business performance, customer behavior, rental activity, and revenue.
 
@@ -8,7 +8,7 @@ The project demonstrates my skills in **SQL, Power BI, DAX, Data Modeling, Data 
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 The main objectives of this project were to:
 
@@ -23,7 +23,7 @@ The main objectives of this project were to:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Microsoft Power BI**
 * **DAX**
@@ -35,7 +35,7 @@ The main objectives of this project were to:
 
 ---
 
-## 📊 Key Performance Indicators
+##  Key Performance Indicators
 
 The dashboard includes the following KPIs:
 
@@ -51,7 +51,7 @@ The dashboard includes the following KPIs:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### 1. Rental Performance Analysis
 
@@ -75,7 +75,7 @@ The project analyzes film categories to understand rental patterns and category 
 
 ---
 
-## 🧮 Key DAX Measures
+## Key DAX Measures
 
 Some of the DAX measures created for this project include:
 
@@ -108,14 +108,6 @@ Other measures include:
 
 ```text
 DVD-Rental-PowerBI-Analytics/
-│
-├── Dataset/
-│   └── Project dataset files
-│
-├── SQL/
-│   ├── Database backup
-│   └── SQL analysis queries
-│
 ├── NoteBook/
 │   └── DVD Rental Analytics Dashboard.pbix
 │
@@ -130,7 +122,7 @@ DVD-Rental-PowerBI-Analytics/
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ### Dashboard Overview
 
