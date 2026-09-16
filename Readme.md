@@ -118,28 +118,9 @@ DVD-Rental-PowerBI-Analytics/
 │   └── Data Model
 │
 └── README.md
-```
-
----
-
-##  Dashboard Preview
-
-### Dashboard Overview
-
-![Dashboard Overview](Screenshots/01_Dashboard_Overview.png)
-
-### Customer Analysis
-
-![Customer Analysis](Screenshots/02_Customer_Analysis.png)
-
-### Revenue Analysis
-
-![Revenue Analysis](Screenshots/03_Revenue_Analysis.png)
-
-### Data Model
-
-![Data Model](Screenshots/05_Data_Model.png)
-
+-----
+----
+----
 ---
 
 ##  Key Insights
